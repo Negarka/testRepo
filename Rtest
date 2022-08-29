@@ -1,0 +1,3 @@
+z1=seq(-3,3,0.01)
+z2=dnorm(z1)
+plot(z1,z2)
